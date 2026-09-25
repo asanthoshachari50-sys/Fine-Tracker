@@ -1,0 +1,6 @@
+{
+  "name": "FinPulse - EMI & Expense Tracker",
+  "description": "A fresh, mobile-first financial companion with an intuitive EMI loan calculator and monthly expense tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
